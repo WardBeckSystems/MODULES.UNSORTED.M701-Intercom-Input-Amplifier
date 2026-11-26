@@ -34,7 +34,7 @@ Wiki page: [M701](../../../../PAGES/M701.md)
 - **Closed boxes:** 15
 - **Wiring (first pass):** 128 connected wire groups from 484 runs
 
-Every curve, box, word and wire group: [1979 - 701-01-011 - INTERCOM PREAMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2 (traced).json](../SCHEMATICS/1979%20-%20701-01-011%20-%20INTERCOM%20PREAMPLIFIER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%202%20(traced).json) (the CAD file: `1979 - 701-01-011 - INTERCOM PREAMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 701-01-011 - INTERCOM PREAMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2 (traced).json](../SCHEMATICS/1979%20-%20701-01-011%20-%20INTERCOM%20PREAMPLIFIER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1979 - 701-01-011 - INTERCOM PREAMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2 (traced).dxf`).
 
 ## Full text
 

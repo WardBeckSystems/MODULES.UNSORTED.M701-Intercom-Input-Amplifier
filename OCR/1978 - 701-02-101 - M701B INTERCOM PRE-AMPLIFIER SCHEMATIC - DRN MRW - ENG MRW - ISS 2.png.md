@@ -36,7 +36,7 @@ Wiki page: [M701](../../../../PAGES/M701.md)
 - **Title block:** (738, 29)–(864, 98) mm: DAT · WBS WARD-BeCk Syst · INTERCOM PRE-AMPLIFIER · Mzoib · ScheMATiC · SCALE · 701- · 101
 - **Wiring (first pass):** 196 connected wire groups from 1,840 runs; labelled ends: 579 mm → iol; 257 mm → Roc?; 245 mm → crio4, Zcie, I42s; 223 mm → 8802934, 74CCON; 222 mm → 27}
 
-Every curve, box, word and wire group: [1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).json](../SCHEMATICS/1978%20-%20701-02-101%20-%20M701B%20INTERCOM%20PRE-AMPLIFIER%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).json](../SCHEMATICS/1978%20-%20701-02-101%20-%20M701B%20INTERCOM%20PRE-AMPLIFIER%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 

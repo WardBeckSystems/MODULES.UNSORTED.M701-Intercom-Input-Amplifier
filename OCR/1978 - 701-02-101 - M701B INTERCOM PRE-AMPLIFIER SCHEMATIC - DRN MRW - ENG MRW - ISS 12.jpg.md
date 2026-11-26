@@ -36,7 +36,7 @@ Wiki page: [M701](../../../../PAGES/M701.md)
 - **Title block:** (702, 3)–(864, 81) mm: alna · 3648 · T+b · 3642 · IssUE DATE · RE VISION · APP: · WBS WARD-BECK SYSTEMS · DRN; MRW 11/78 · ENG MRW · M7oib · CKD RA; · INTERCOM PRE-AMPLIFIER · SCHEMATIC · SCALE · 701-02-101 · ISSUE
 - **Wiring (first pass):** 196 connected wire groups from 1,095 runs; labelled ends: 571 mm → rib <, IKB, Rlig, IoOK; 411 mm → ISk, Ri2g, IOK, UI04-8; 326 mm → Cio:, 1/35, RII?, 0io+; 220 mm → 282, 2/1, J8, Zio; 203 mm → RA?, 43k, 00/25
 
-Every curve, box, word and wire group: [1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 12 (traced).json](../SCHEMATICS/1978%20-%20701-02-101%20-%20M701B%20INTERCOM%20PRE-AMPLIFIER%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%2012%20(traced).json) (the CAD file: `1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 12 (traced).json](../SCHEMATICS/1978%20-%20701-02-101%20-%20M701B%20INTERCOM%20PRE-AMPLIFIER%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%2012%20%28traced%29.json) (the CAD file: `1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 12 (traced).dxf`).
 
 ## Full text
 
