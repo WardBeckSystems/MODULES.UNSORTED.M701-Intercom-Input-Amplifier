@@ -1,0 +1,592 @@
+{
+ "code": "M701",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z opposite 1-22 (pairs drawn as '1, A', '13, P' etc.)",
+   "view": null,
+   "part": null
+  }
+ ],
+ "verified": null,
+ "built_from": {
+  "pictures": [
+   "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+  ],
+  "sheet": null,
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": "A",
+   "same_row": null,
+   "signal": "+24..36 V UNREG",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": "C",
+   "same_row": null,
+   "signal": "MIC INPUT A",
+   "kind": "in",
+   "port": "MIC INPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": "D",
+   "same_row": null,
+   "signal": "MIC INPUT B",
+   "kind": "in",
+   "port": "MIC INPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": "E",
+   "same_row": null,
+   "signal": "MIC SHIELD",
+   "kind": "shield",
+   "port": "MIC INPUT",
+   "polarity": "shield",
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": "F",
+   "same_row": null,
+   "signal": "CARBON MIC SUPPLY STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": "H",
+   "same_row": null,
+   "signal": "MIC STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": "J",
+   "same_row": null,
+   "signal": "PRE OUTPUT A",
+   "kind": "insert_send",
+   "port": "PRE OUTPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": "L",
+   "same_row": null,
+   "signal": "COMMON (-C)",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": "P",
+   "same_row": null,
+   "signal": "+24..36 V UNREG",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": "T",
+   "same_row": true,
+   "signal": "POWER AMP INPUT SHIELD",
+   "kind": "shield",
+   "port": "POWER AMP INPUT",
+   "polarity": "shield",
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": "U",
+   "same_row": true,
+   "signal": "POWER AMP INPUT A",
+   "kind": "insert_return",
+   "port": "POWER AMP INPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": "V",
+   "same_row": true,
+   "signal": "POWER AMP INPUT B",
+   "kind": "insert_return",
+   "port": "POWER AMP INPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "ref": "19",
+   "also": "W",
+   "same_row": null,
+   "signal": "MUTE",
+   "kind": "control_in",
+   "port": "MUTE",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "ref": "21",
+   "also": "Y",
+   "same_row": null,
+   "signal": "SPEAKER OUTPUT",
+   "kind": "out",
+   "port": "SPEAKER OUTPUT",
+   "polarity": "+",
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": "Z",
+   "same_row": null,
+   "signal": "SPEAKER OUTPUT RETURN / GROUND",
+   "kind": "ground",
+   "port": "SPEAKER OUTPUT",
+   "polarity": "-",
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": "1",
+   "same_row": null,
+   "signal": "+24..36 V UNREG",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": "3",
+   "same_row": null,
+   "signal": "MIC STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": "4",
+   "same_row": null,
+   "signal": "MIC STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": "5",
+   "same_row": null,
+   "signal": "MIC STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": "6",
+   "same_row": true,
+   "signal": "CARBON MIC SUPPLY STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": "7",
+   "same_row": null,
+   "signal": "MIC STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": "8",
+   "same_row": null,
+   "signal": "PRE OUTPUT B",
+   "kind": "insert_send",
+   "port": "PRE OUTPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": "10",
+   "same_row": null,
+   "signal": "COMMON (-C)",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": "13",
+   "same_row": null,
+   "signal": "+24..36 V UNREG",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": "16",
+   "same_row": null,
+   "signal": "POWER AMP INPUT SHIELD",
+   "kind": "shield",
+   "port": "POWER AMP INPUT",
+   "polarity": "shield",
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": "17",
+   "same_row": null,
+   "signal": "POWER AMP INPUT A",
+   "kind": "insert_return",
+   "port": "POWER AMP INPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": "18",
+   "same_row": null,
+   "signal": "POWER AMP INPUT B",
+   "kind": "insert_return",
+   "port": "POWER AMP INPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": "19",
+   "same_row": true,
+   "signal": "MUTE",
+   "kind": "control_in",
+   "port": "MUTE",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": "21",
+   "same_row": null,
+   "signal": "SPEAKER OUTPUT",
+   "kind": "out",
+   "port": "SPEAKER OUTPUT",
+   "polarity": "+",
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": "22",
+   "same_row": null,
+   "signal": "SPEAKER OUTPUT RETURN / GROUND",
+   "kind": "ground",
+   "port": "SPEAKER OUTPUT",
+   "polarity": "-",
+   "confidence": "medium",
+   "read_from": [
+    "M703/PINOUTS/1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "MIC INPUT",
+   "dir": "in",
+   "pins": {
+    "+": "P1-3",
+    "-": "P1-4",
+    "shield": "P1-5"
+   }
+  },
+  {
+   "name": "PRE OUTPUT",
+   "dir": "insert_send",
+   "pins": {
+    "+": "P1-8",
+    "-": "P1-J"
+   }
+  },
+  {
+   "name": "POWER AMP INPUT",
+   "dir": "insert_return",
+   "pins": {
+    "+": "P1-U",
+    "-": "P1-V",
+    "shield": "P1-T"
+   }
+  },
+  {
+   "name": "SPEAKER OUTPUT",
+   "dir": "out",
+   "pins": {
+    "+": "P1-21",
+    "-": "P1-22"
+   }
+  },
+  {
+   "name": "MUTE",
+   "dir": "control_in",
+   "pins": {
+    "+": "P1-19"
+   }
+  }
+ ],
+ "inserts": [
+  {
+   "name": "PRE OUT / POWER AMP IN",
+   "send": "PRE OUTPUT",
+   "return": "POWER AMP INPUT",
+   "normalled": null,
+   "note": "M701 = preamp only, M702 = power amp only, M703 = both sections. The drawing does not show how the M703 pre output reaches its power amp input; recorded as a pre-out / power-in pair."
+  }
+ ],
+ "straps": [
+  {
+   "name": "DYNAMIC MIC (-60)",
+   "pins": [
+    "P1-5",
+    "P1-6"
+   ],
+   "note": "dynamic microphone strapping"
+  },
+  {
+   "name": "CARBON MIC (-30)",
+   "pins": [
+    "P1-6",
+    "P1-7"
+   ],
+   "note": "NOTE: FOR MULTIPLE CARBON MIC. OPERATION CONNECT EXTERNAL BTY SUPPLY (APPROX 2-5V) TO PIN 6, REMOVE LINK BETWEEN PINS 6 & 7, RUN SEPARATE TO PIN 5"
+  },
+  {
+   "name": "CARBON + DYNAMIC",
+   "pins": [
+    "P1-6",
+    "P1-7"
+   ],
+   "note": "third drawing: carbon mic input direct on 3/4, dynamic mic input -60dBm via 1 MFD 200V MYLAR capacitors on the same pins; also 7-H and C-E"
+  }
+ ],
+ "conflicts": [],
+ "to_check": [
+  {
+   "what": "polarity assumed",
+   "pin": null,
+   "detail": "4 contacts given + / − that the drawing does not mark (e.g. P1-21 SPEAKER OUTPUT) (M703: 1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.jpg)"
+  }
+ ]
+}
